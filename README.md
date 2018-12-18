@@ -5,4 +5,4 @@ Computer Graphics being a very inter-disciplinary field can be handled from diff
 
 The aim of this repository is to share the latest developments in this field in terms of - research papers, major tools, job opportunities, top universities, active professors and researchers. The main objective is to have a centralized platform where people can contribute content for others to learn. It is an initiative to foster learning and development of computer graphics. Please note that this is just a repository re-directing to works of other creators across the world and I was not part of any of the works.
 
-All the information shared in this repository will be manually curated as part of my website - https://everythingcg.com/
+All the information shared in this repository will be curated as part of my website - https://everythingcg.com/
