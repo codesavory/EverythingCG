@@ -1,4 +1,4 @@
-TECHNOLOGY - 
+# TECHNOLOGY - 
 Under the technology directory, you will be able to find all the information of computer graphics developments and opportunities from a developer/researcher's perpective. This is for anyone who wants to learn the science behind latest computer graphics tools and researches. Sub-section explained below -
 ### - Fields
 This folder holds files with name of each field mentioned in **fields.md**, kindly add entries of sub-fields in the respective files.
