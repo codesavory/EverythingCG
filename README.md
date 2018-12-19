@@ -28,3 +28,42 @@ All the information shared in this repository will also be curated and shared as
 - [Researh Papers](/Technology/research_papers.md)
 - [Resources](/Technology/resources.md)
 - [Tools](/Technology/tools.md)
+
+### Contributing
+
+#### 1. Adding a new resource link
+
+To add a new resource link, you can just click on the small edit button in the top-right
+corner of the file under the respective section (see below).
+
+![Click on the edit button to add a file](Images/edit_file.PNG)
+
+This allows you to edit the file in Markdown. Simply add a row to the corresponding table in the
+same format. Make sure that the table stays sorted (with the best result on top). 
+After you've made your change, make sure that the table still looks ok by clicking on the
+"Preview changes" tab at the top of the page. If everything looks good, go to the bottom of the page,
+where you see the below form. 
+
+![Fill out the file change information](Images/propose_file_change.PNG)
+
+Add a name for your proposed change, an optional description, indicate that you would like to
+"Create a new branch for this commit and start a pull request", and click on "Propose file change".
+
+#### 2. Adding a new field or sub-field
+
+For adding a new dataset or task, you can also follow the steps above. Alternatively, you can fork the repository.
+In both cases, follow the steps below:
+
+1. If the field is completely new, create a new entry in **field.md** and create a new file under the **Fields** sub-directory Also link to it in the table of contents above.
+1. If not, add an entry of your sub-field to the respective section of the corresponding file (in alphabetical order).
+1. Briefly describe the field/sub-field and include relevant references. 
+1. Add a reference link if available.
+1. Copy the below table and fill in at least two results (including the state-of-the-art)
+  for your sub-field. If your sub-field has other information/notes, add them to the right of `Link`.
+1. Submit your change as a pull request.
+
+Format: \<Sub-field Name>\<Description>\<Short Overview Link>
+
+| Sub-field Name | Description   | Link  |
+| -------------- |:--------------| ------|
+| | | |
