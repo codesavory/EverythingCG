@@ -17,6 +17,11 @@ All the information shared in this repository will also be curated and shared as
 
 ### Technology
 - [Fields](/Technology/fields.md)
+  - [Character Animations](/Technology/Fields/character_animations.md)
+  - [Facial Animations](/Technology/Fields/physics_based_simulations.md)
+  - [Geometric Processing](/Technology/Fields/geometric_processing.md)
+  - [Materials](/Technology/Fields/materials.md)
+  - [Photogrammetry](/Technology/Fields/photogrammetry.md)
   - [Physics Based Simulations](/Technology/Fields/physics_based_simulations.md)
 - [Opportunities](/Technology/opportunities.md)
 - [Research Groups](/Technology/research_groups.md)
