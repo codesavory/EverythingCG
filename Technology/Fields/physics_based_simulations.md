@@ -1,7 +1,7 @@
 # Physics Based Simulation
-Format: \<Simulation Type>\<Description>\<Short Overview Link>
+Format: \<Sub-field>\<Description>\<Short Overview Link>
 
-| Simlation Type | Description  | Link  |
+| Sub-field Name | Description  | Link  |
 | -------------  |--------------| ------|
 | Fluids Simulation | Simulations of fluids using mathematical models and computational physics | [Fluids Simulation](https://en.wikipedia.org/wiki/Fluid_animation), [Computational Fluid Dynamics](https://en.wikipedia.org/wiki/Computational_fluid_dynamics)
 | Hair Simulation | Simulating dynamic and realistic hair using ordinary and partial differential equations | [Wiki Page](https://en.wikipedia.org/wiki/Dynamic_simulation)
