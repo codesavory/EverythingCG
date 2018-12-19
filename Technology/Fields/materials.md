@@ -1,5 +1,5 @@
 # Materials
-Format: <Simulation Type><Description><Short Overview Link>
+Format: \<Sub-field Name>\<Description>\<Short Overview Link>
 
-| Simulation Type | Description  | Link  |
-| --------------- |--------------| ------|
+| Sub-field Name | Description  | Link  |
+| -------------  |--------------| ------|
