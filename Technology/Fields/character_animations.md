@@ -1,5 +1,5 @@
 # Character Animations
-Format: \<Animation Type>\<Description>\<Short Overview Link>
+Format: \<Sub-field Name>\<Description>\<Short Overview Link>
 
-| Animation Type | Description  | Link  |
+| Sub-field Name | Description  | Link  |
 | -------------  |--------------| ------|
