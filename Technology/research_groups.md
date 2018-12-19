@@ -1,6 +1,5 @@
 # Research Groups
-Share links to professors working in research areas of the major fields and also if applicable research groups from universities.
-
+Share links to research groups, labs and professors working on research in computer graphics.
 Format: \<Field Name>\<Sub-field Name>\<Description>\<Research Group/Professor>\<University Name>\<Link>
 
 
