@@ -1,8 +1,8 @@
 # Resources
 Share links to online resources(articles, blogs, videos and any useful information) in the table below.
+Note: Kindly reference the field name and sub-field name from fields.md file and Fields sub-directory respectively(if applicable).
 
 Format: \<Field Name>\<Sub-field(optional)>\<Description>\<Resource Type>\<Link>
-Note: Refer the field name and sub-field name from fields.md file and Fields sub-directory respectively if applicable.
 
 | Field Name    | Sub-field Name | Description | Link |
 | ------------- |:--------------:| ------------|------|
