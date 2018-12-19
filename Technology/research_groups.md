@@ -1,7 +1,7 @@
 # Research Groups
 Share links to professors working in research areas of the major fields and also if applicable research groups from universities.
 
-Format: \<Field Name>\<Sub-field Name>\<Description>\<Professor/Research Group>\<University Name>\<Link>
+Format: \<Field Name>\<Sub-field Name>\<Description>\<Research Group/Professor>\<University Name>\<Link>
 
 
 | Field Name    | Sub-field Name | Description | Research Group/Professor| University Name | Link |
