@@ -1,5 +1,5 @@
 # Physics Based Simulation
-Format: \<Sub-field>\<Description>\<Short Overview Link>
+Format: \<Sub-field Name>\<Description>\<Short Overview Link>
 
 | Sub-field Name | Description  | Link  |
 | -------------  |--------------| ------|
