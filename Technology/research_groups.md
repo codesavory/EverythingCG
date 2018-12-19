@@ -1,7 +1,8 @@
 # Research Groups
 Share links to research groups, labs and professors working on research in computer graphics.
-Format: \<Field Name>\<Sub-field Name>\<Description>\<Research Group/Professor>\<University Name>\<Link>
+Note: Kindly reference the field name and sub-field name from fields.md file and Fields sub-directory respectively(if applicable).
 
+Format: \<Field Name>\<Sub-field Name>\<Description>\<Research Group/Professor>\<University Name>\<Link>
 
 | Field Name    | Sub-field Name | Description | Research Group/Professor| University Name | Link |
 | ------------- |:--------------:| ------------|-------------------------|-----------------|------|
